@@ -1,0 +1,6 @@
+^0
+#day ziro event
+$day ziro task
+^1
+#day one event
+$day one task
