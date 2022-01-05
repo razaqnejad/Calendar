@@ -1,6 +1,6 @@
 # Calendar
 
-# This project didnt complete to the final version
+# This project didn't complete to the final version
  --------
  
 ### *Fatemeh Razaqnejad*
